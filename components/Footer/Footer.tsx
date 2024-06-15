@@ -15,7 +15,9 @@ export default function Footer() {
             <div className="flex flex-col sm:flex-row gap-5 text-yellow mt-7 text-7xl">
               <Link
                 target="_blank"
-                href={"#"}
+                href={
+                  "https://dexscreener.com/base/0xfd85ba296b9b71040706250e3ead3a2e387bffd6"
+                }
                 className="bg-yellow order-2 hover:scale-110  uppercase px-3 py-2 text-xl md:text-4xl text-white rotate-6 border-[4px] border-black"
               >
                 Buy Milo
